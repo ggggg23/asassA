@@ -12,7 +12,7 @@
             color: #333;
         }
         header {
-            background: url('https://example.com/safari-background.jpg') no-repeat center center/cover;
+            background: url('https://m.media-amazon.com/images/I/710E+pqVvxL._AC_UF894,1000_QL80_.jpg') no-repeat center center/cover;
             height: 100vh;
             display: flex;
             justify-content: center;
@@ -96,9 +96,9 @@
     <p>Cactus Token is the funniest and spikiest meme token on Solana, designed to make crypto fun and wild. Hold onto your hats because the desert winds are coming! With low transaction fees and high-speed transfers, Solana is the perfect ecosystem for our little green token.</p>
     
     <div class="gallery">
-        <img src="https://example.com/cactus1.jpg" alt="Cactus">
-        <img src="https://example.com/cactus2.jpg" alt="Cactus in desert">
-        <img src="https://example.com/safari.jpg" alt="Safari landscape">
+        <img src="https://i.pinimg.com/originals/9f/93/12/9f9312c57ab18ab970805642743f1183.jpg" alt="Cactus">
+        <img src="https://i.pinimg.com/originals/9f/93/12/9f9312c57ab18ab970805642743f1183.jpg" alt="Cactus in desert">
+        <img src="https://i.pinimg.com/originals/9f/93/12/9f9312c57ab18ab970805642743f1183.jpg" alt="Safari landscape">
     </div>
 </section>
 
